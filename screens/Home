@@ -1,0 +1,6 @@
+render();
+        <View style={styles.container}>
+            <View style={styles.appTitleTextContainer}>
+              <Text style={styles.appTitleText}>Bem-Vindo ao App </Text>
+            </View>
+            </View>
